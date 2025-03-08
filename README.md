@@ -11,7 +11,8 @@
 ## Sequence Diagram
 
 <img width="811" alt="image" src="https://github.com/user-attachments/assets/2bb00b88-9a20-4f8c-93fd-ce7960c4a50e" />
-<img width="639" alt="image" src="https://github.com/user-attachments/assets/2a668896-76eb-4364-9b9f-1bdfd7e6d8da" />
+<img width="811" alt="image" src="https://github.com/user-attachments/assets/2a668896-76eb-4364-9b9f-1bdfd7e6d8da" />
 
 ## Class Diagram
 
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/405fd3bd-03f4-4948-94a9-aa218b948c36" />
